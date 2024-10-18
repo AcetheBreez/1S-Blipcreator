@@ -3,7 +3,7 @@ game 'gta5'
 lua54 "yes"
 name 'Blips Creator System'
 author '1S - SCRIPTS'
-version '2.37.2'
+version '1.0'
 
 
 client_script 'client/*.lua'
