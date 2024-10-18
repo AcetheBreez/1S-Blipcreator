@@ -7,4 +7,3 @@ CREATE TABLE IF NOT EXISTS `blips` (
     `y` FLOAT NOT NULL,
     `z` FLOAT NOT NULL
 );
-creator
